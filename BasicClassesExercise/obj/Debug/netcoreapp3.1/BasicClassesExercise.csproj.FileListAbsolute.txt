@@ -1,0 +1,14 @@
+C:\Users\matt2\repos\BasicClassesExercise\BasicClassesExercise\obj\Debug\netcoreapp3.1\BasicClassesExercise.csproj.AssemblyReference.cache
+C:\Users\matt2\repos\BasicClassesExercise\BasicClassesExercise\obj\Debug\netcoreapp3.1\BasicClassesExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matt2\repos\BasicClassesExercise\BasicClassesExercise\obj\Debug\netcoreapp3.1\BasicClassesExercise.AssemblyInfoInputs.cache
+C:\Users\matt2\repos\BasicClassesExercise\BasicClassesExercise\obj\Debug\netcoreapp3.1\BasicClassesExercise.AssemblyInfo.cs
+C:\Users\matt2\repos\BasicClassesExercise\BasicClassesExercise\obj\Debug\netcoreapp3.1\BasicClassesExercise.csproj.CoreCompileInputs.cache
+C:\Users\matt2\repos\BasicClassesExercise\BasicClassesExercise\bin\Debug\netcoreapp3.1\BasicClassesExercise.exe
+C:\Users\matt2\repos\BasicClassesExercise\BasicClassesExercise\bin\Debug\netcoreapp3.1\BasicClassesExercise.deps.json
+C:\Users\matt2\repos\BasicClassesExercise\BasicClassesExercise\bin\Debug\netcoreapp3.1\BasicClassesExercise.runtimeconfig.json
+C:\Users\matt2\repos\BasicClassesExercise\BasicClassesExercise\bin\Debug\netcoreapp3.1\BasicClassesExercise.runtimeconfig.dev.json
+C:\Users\matt2\repos\BasicClassesExercise\BasicClassesExercise\bin\Debug\netcoreapp3.1\BasicClassesExercise.dll
+C:\Users\matt2\repos\BasicClassesExercise\BasicClassesExercise\bin\Debug\netcoreapp3.1\BasicClassesExercise.pdb
+C:\Users\matt2\repos\BasicClassesExercise\BasicClassesExercise\obj\Debug\netcoreapp3.1\BasicClassesExercise.dll
+C:\Users\matt2\repos\BasicClassesExercise\BasicClassesExercise\obj\Debug\netcoreapp3.1\BasicClassesExercise.pdb
+C:\Users\matt2\repos\BasicClassesExercise\BasicClassesExercise\obj\Debug\netcoreapp3.1\BasicClassesExercise.genruntimeconfig.cache
